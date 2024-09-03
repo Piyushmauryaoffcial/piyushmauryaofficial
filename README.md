@@ -5,6 +5,8 @@
 
 - Technology-React js, Laravel,Mysql,HTML5,CSS3 [yocarz.com](https://yocarz.com/)
 
+- Framework **Laravel, CodeIgniter**
+
 - 📫 How to reach me **piyushmauryaofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
